@@ -1,0 +1,2 @@
+recursive-include generic_tools *.html *.css
+include LICENSE.txt
